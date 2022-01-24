@@ -17,4 +17,4 @@ scenario of "*k* ≠ *r*".
     * `registration.py` initializes the services of the GP model and configures the evolving operators.
     * `initialPopulation.py` produces the initial population when the evolving process starts.
     * `select.py` performs the selection step to determine parents.
-    * `getNextGeneration.py` conducts the operations of crossover, copy, or mutation, to deliver the next generation
+    * `getNextGeneration.py` conducts the operations of crossover, copy, or mutation, to deliver the next generation.
