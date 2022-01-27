@@ -1,5 +1,5 @@
 ### Evolving Ranking-Based Failure Proximities
-This is the repository containing the data for the paper "Evolving Ranking-Based Failure Proximities for Better
+This is the repository containing the data and source code for the paper "Evolving Ranking-Based Failure Proximities for Better
 Clustering in Fault Isolation".
 
 + The folder `data` is threefold, including all individuals in each generation along with their fitness scores 
